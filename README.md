@@ -2,4 +2,4 @@ a fork of [AlexSugak's repo](https://github.com/AlexSugak/solid-react) with addi
 
 [Applying SOLID principles in React](https://konstantinlebedev.com/solid-in-react/)
 
-[SOLID principles in Reactjs]()
+[SOLID principles in Reactjs](https://www.linkedin.com/pulse/solid-principles-reactjs-oleksii-bortnytskyi)
